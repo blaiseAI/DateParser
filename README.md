@@ -1,5 +1,5 @@
 # DateParser
-This is a simple method that is parsing a string input from the user and parses it into an actual Date.
+Parsing a string from the user into a date.
 
 **Input**
 ```
