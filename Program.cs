@@ -4,21 +4,6 @@ namespace DateParser
 {
     class Program
     {
-
-        //public static void DayTime()
-        //{
-        //    DateTime date = DateTime.Now;
-        //    if (date.Hour < 12)
-        //    {
-        //        Console.WriteLine($"Morning it is {date.Hour} AM");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine($"Good Afternoon it is {date.Hour} PM");
-        //    }
-
-        //}
-
         public static DateTime DateParser()
         {
             bool DoItAgain = true;
